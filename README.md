@@ -34,3 +34,5 @@ https://www.elastic.co/elasticsearch/
 #### Grafana
 observability dashboards <br>
 https://grafana.com/
+
+[Design patterns for asynchronous API communication](https://stackoverflow.blog/2022/07/21/event-driven-topic-design-using-kafka/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
